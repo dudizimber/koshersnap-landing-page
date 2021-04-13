@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "koshersnap-landing"
+  },
+  "targets": {
+    "kosher-snap": {
+      "hosting": {
+        "landing": [
+          "koshersnap-landing"
+        ]
+      }
+    }
+  }
+}
